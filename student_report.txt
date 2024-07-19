@@ -1,0 +1,6 @@
+Student ID: 14843
+Name: Shan Sharma
+Grades: 89 (A+) 90 (A+) 99 (A+) 77 (A) 89 (A+) 
+GPA: 3.95
+
+-------------------
